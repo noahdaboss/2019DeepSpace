@@ -1,0 +1,34 @@
+AYYYY LE PLAN
+
+System Wanted States ------------------
+
+Idle - turn off everything (set everything else to idle)
+
+Unjam - set all systems to unjam state, if accumulator up, bring back down
+
+Accumulate - bring down mechanism and flipping go, but don't overflow
+
+Continuous_Shoot - just full blast feeder and shooter DONT CARE IF JAMMED
+
+Manual_Shoot - Shoot and Idle, then have teleop Wait until it is done shooting
+
+
+
+Shooter Subsystem - Linear Actuator and 3.3, no other sensors :D
+                    Full stroke = shoot forward
+                    Full retract = shoot straight up
+
+                    Shoot Steps:
+                    Speed up flywheel
+                    Shoot
+                    Don't really need a spin down feature
+                    Doesn't really need a state machine, superstructure will take care of it
+
+
+
+
+
+
+
+
+
