@@ -1,8 +1,9 @@
 package frc.lib.util.drivers;
 import edu.wpi.first.wpilibj.MotorSafety;
 
-import com.ctre.CANTalon;
-import com.ctre.CANTalon.TalonControlMode;
+import com.ctre.phoenix.motorcontrol.ControlMode;
+import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;
+
 
 /**
  * Creates CANTalon objects and configures all the parameters we care about to factory defaults. Closed-loop and sensor
