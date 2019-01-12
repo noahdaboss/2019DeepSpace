@@ -15,6 +15,7 @@ import com.team6498.lib.util.math.RigidTransform2d;
 
 import java.util.Arrays;
 import java.util.Map;
+//kaden was here
 
 /**
  * The main robot class, which instantiates all robot parts and helper classes and initializes all loops. Some classes
@@ -31,6 +32,7 @@ import java.util.Map;
  * this project, you must also update the manifest file in the resource directory.
  */
 public class Robot extends IterativeRobot {
+   int hi;
     // Get subsystem instances
     private Drive mDrive = Drive.getInstance();
     private Superstructure mSuperstructure = Superstructure.getInstance();
