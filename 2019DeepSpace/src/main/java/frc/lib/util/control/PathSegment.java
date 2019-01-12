@@ -1,6 +1,6 @@
 package frc.lib.util.control;
 
-import frc.frc2017.Constants;
+import frc.robot.Constants;
 import frc.lib.util.math.Rotation2d;
 import frc.lib.util.math.Translation2d;
 import frc.lib.util.motion.MotionProfile;

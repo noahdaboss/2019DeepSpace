@@ -1,8 +1,8 @@
-package com.team254.frc2017.auto.actions;
+package frc.robot.auto.actions;
 
 import edu.wpi.first.wpilibj.Timer;
 
-import com.team254.frc2017.RobotState;
+import frc.robot.RobotState;
 import frc.lib.util.math.RigidTransform2d;
 
 /**
