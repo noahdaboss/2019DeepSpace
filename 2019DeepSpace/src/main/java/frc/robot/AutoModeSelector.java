@@ -14,7 +14,7 @@ import java.util.function.Supplier;
  * Class that allows a user to select which autonomous mode to execute from the web dashboard.
  */
 public class AutoModeSelector {
-
+    String hiThere = "you just got beaned";
     public static final String AUTO_OPTIONS_DASHBOARD_KEY = "auto_options";
     public static final String SELECTED_AUTO_MODE_DASHBOARD_KEY = "selected_auto_mode";
 
