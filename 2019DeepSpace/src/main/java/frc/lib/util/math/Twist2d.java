@@ -1,4 +1,4 @@
-package com.team6498.lib.util.math;
+package frc.lib.util.math;
 
 /**
  * A movement along an arc at constant curvature and velocity. We can use ideas from "differential calculus" to create

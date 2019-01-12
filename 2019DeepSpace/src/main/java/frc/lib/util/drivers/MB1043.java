@@ -1,4 +1,4 @@
-package com.team6498.lib.util.drivers;
+package frc.lib.util.drivers;
 
 /**
  * Driver for a MB1043 ultrasonic sensor

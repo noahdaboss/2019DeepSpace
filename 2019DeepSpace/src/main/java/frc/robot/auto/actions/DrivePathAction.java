@@ -2,7 +2,7 @@ package frc.robot.auto.actions;
 
 import frc.robot.paths.PathContainer;
 import frc.robot.subsystems.Drive;
-import com.team6498.lib.util.control.Path;
+import frc.lib.util.control.Path;
 
 /**
  * Drives the robot along the Path defined in the PathContainer object. The action finishes once the robot reaches the

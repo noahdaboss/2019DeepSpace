@@ -1,7 +1,7 @@
-package com.team6498.lib.util.motion;
+package frc.lib.util.motion;
 
-import static com.team6498.lib.util.Util.epsilonEquals;
-import static com.team6498.lib.util.motion.MotionUtil.kEpsilon;
+import static frc.lib.util.Util.epsilonEquals;
+import static frc.lib.util.motion.MotionUtil.kEpsilon;
 
 /**
  * A MotionSegment is a movement from a start MotionState to an end MotionState with a constant acceleration.

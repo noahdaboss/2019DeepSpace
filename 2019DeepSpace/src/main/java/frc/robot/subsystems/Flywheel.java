@@ -2,8 +2,8 @@ package frc.robot.subsystems;
 
 
 
-import com.team6498.lib.util.ConstantsBase;
-import com.team6498.lib.util.drivers.NidecBrushlessThree;
+import frc.lib.util.ConstantsBase;
+import frc.lib.util.drivers.NidecBrushlessThree;
 
 
 import com.ctre.CANTalon;
@@ -18,7 +18,7 @@ import frc.robot.loops.Loop;
 
 import frc.robot.loops.Looper;
 
-import com.team6498.lib.util.drivers.CANTalonFactory;
+import frc.lib.util.drivers.CANTalonFactory;
 
 
 /**

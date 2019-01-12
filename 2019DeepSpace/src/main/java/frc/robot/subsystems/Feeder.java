@@ -3,8 +3,8 @@ package frc.robot.subsystems;
 import frc.robot.Constants;
 import frc.robot.loops.Loop;
 import frc.robot.loops.Looper;
-import com.team6498.lib.util.drivers.IRSensor;
-import com.team6498.lib.util.drivers.NidecBrushlessThree;
+import frc.lib.util.drivers.IRSensor;
+import frc.lib.util.drivers.NidecBrushlessThree;
 import edu.wpi.first.wpilibj.NidecBrushless;
 
 /**

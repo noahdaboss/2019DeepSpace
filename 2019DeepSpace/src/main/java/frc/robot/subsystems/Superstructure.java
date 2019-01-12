@@ -10,7 +10,7 @@ import frc.robot.RobotState;
 //import frc.robot.ShooterAimingParameters;
 import frc.robot.loops.Loop;
 import frc.robot.loops.Looper;
-import com.team6498.lib.util.InterpolatingDouble;
+import frc.lib.util.InterpolatingDouble;
 
 
 import java.util.Optional;

@@ -5,7 +5,7 @@ import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 import frc.robot.Constants;
-import com.team6498.lib.util.CrashTrackingRunnable;
+import frc.lib.util.CrashTrackingRunnable;
 
 import java.util.ArrayList;
 import java.util.List;

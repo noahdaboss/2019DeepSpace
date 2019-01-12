@@ -1,7 +1,7 @@
 package frc.robot.auto.actions;
 
 import frc.robot.subsystems.Drive;
-import com.team6498.lib.util.math.Rotation2d;
+import frc.lib.util.math.Rotation2d;
 
 /**
  * Turns the robot to a specified heading

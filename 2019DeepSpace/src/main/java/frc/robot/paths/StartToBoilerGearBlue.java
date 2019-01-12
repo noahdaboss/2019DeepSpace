@@ -2,8 +2,8 @@ package frc.robot.paths;
 
 
 import frc.robot.paths.profiles.PathAdapter;
-import com.team6498.lib.util.control.Path;
-import com.team6498.lib.util.math.RigidTransform2d;
+import frc.lib.util.control.Path;
+import frc.lib.util.math.RigidTransform2d;
 
 /**
  * Path from the blue alliance wall to the blue boiler peg.

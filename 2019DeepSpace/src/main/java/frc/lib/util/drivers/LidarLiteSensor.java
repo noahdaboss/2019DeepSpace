@@ -1,4 +1,4 @@
-package com.team6498.lib.util.drivers;
+package frc.lib.util.drivers;
 
 import edu.wpi.first.wpilibj.I2C;
 import edu.wpi.first.wpilibj.I2C.Port;

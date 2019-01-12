@@ -1,4 +1,4 @@
-package com.team6498.lib.util;
+package frc.lib.util;
 
 import edu.wpi.first.wpilibj.Timer;
 

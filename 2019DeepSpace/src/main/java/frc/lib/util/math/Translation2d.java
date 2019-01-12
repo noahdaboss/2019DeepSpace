@@ -1,6 +1,6 @@
-package com.team6498.lib.util.math;
+package frc.lib.util.math;
 
-import com.team6498.lib.util.Interpolable;
+import frc.lib.util.Interpolable;
 
 import java.text.DecimalFormat;
 

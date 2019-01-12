@@ -6,7 +6,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import frc.robot.auto.AutoModeBase;
 import frc.robot.auto.modes.*;
 
-import org.json.simple.JSONArray;
+import JSONArray;
 
 import java.util.function.Supplier;
 

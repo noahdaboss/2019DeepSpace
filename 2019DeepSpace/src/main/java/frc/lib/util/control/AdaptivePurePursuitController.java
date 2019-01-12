@@ -1,9 +1,9 @@
-package com.team6498.lib.util.control;
+package frc.lib.util.control;
 
-import com.team6498.lib.util.math.RigidTransform2d;
-import com.team6498.lib.util.math.Rotation2d;
-import com.team6498.lib.util.math.Translation2d;
-import com.team6498.lib.util.math.Twist2d;
+import frc.lib.util.math.RigidTransform2d;
+import frc.lib.util.math.Rotation2d;
+import frc.lib.util.math.Translation2d;
+import frc.lib.util.math.Twist2d;
 
 /**
  * Implements an adaptive pure pursuit controller. See:

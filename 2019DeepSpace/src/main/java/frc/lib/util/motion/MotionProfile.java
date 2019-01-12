@@ -1,7 +1,7 @@
-package com.team6498.lib.util.motion;
+package frc.lib.util.motion;
 
-import static com.team6498.lib.util.Util.epsilonEquals;
-import static com.team6498.lib.util.motion.MotionUtil.kEpsilon;
+import static frc.lib.util.Util.epsilonEquals;
+import static frc.lib.util.motion.MotionUtil.kEpsilon;
 
 import java.util.ArrayList;
 import java.util.Iterator;

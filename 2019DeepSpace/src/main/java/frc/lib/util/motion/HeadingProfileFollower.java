@@ -1,6 +1,6 @@
-package com.team6498.lib.util.motion;
+package frc.lib.util.motion;
 
-import com.team6498.lib.util.math.Rotation2d;
+import frc.lib.util.math.Rotation2d;
 
 /**
  * Class to deal with angle wrapping for following a heading profile. All states are assumed to be in units of degrees,

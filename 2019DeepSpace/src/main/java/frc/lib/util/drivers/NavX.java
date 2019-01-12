@@ -1,11 +1,11 @@
-package com.team6498.lib.util.drivers;
+package frc.lib.util.drivers;
 
 import edu.wpi.first.wpilibj.SPI;
 
 import com.kauailabs.navx.AHRSProtocol.AHRSUpdateBase;
 import com.kauailabs.navx.frc.AHRS;
 import com.kauailabs.navx.frc.ITimestampedDataSubscriber;
-import com.team6498.lib.util.math.Rotation2d;
+import frc.lib.util.math.Rotation2d;
 
 /**
  * Driver for a NavX board. Basically a wrapper for the {@link AHRS} class

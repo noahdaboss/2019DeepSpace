@@ -1,13 +1,13 @@
-package com.team6498.lib.util.control;
+package frc.lib.util.control;
 
-import com.team6498.frc2017.Constants;
-import com.team6498.lib.util.math.Rotation2d;
-import com.team6498.lib.util.math.Translation2d;
-import com.team6498.lib.util.motion.MotionProfile;
-import com.team6498.lib.util.motion.MotionProfileConstraints;
-import com.team6498.lib.util.motion.MotionProfileGenerator;
-import com.team6498.lib.util.motion.MotionProfileGoal;
-import com.team6498.lib.util.motion.MotionState;
+import frc.frc2017.Constants;
+import frc.lib.util.math.Rotation2d;
+import frc.lib.util.math.Translation2d;
+import frc.lib.util.motion.MotionProfile;
+import frc.lib.util.motion.MotionProfileConstraints;
+import frc.lib.util.motion.MotionProfileGenerator;
+import frc.lib.util.motion.MotionProfileGoal;
+import frc.lib.util.motion.MotionState;
 
 import java.util.Optional;
 

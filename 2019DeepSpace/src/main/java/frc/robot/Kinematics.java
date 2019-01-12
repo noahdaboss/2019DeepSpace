@@ -1,8 +1,8 @@
 package frc.robot;
 
-import com.team6498.lib.util.math.RigidTransform2d;
-import com.team6498.lib.util.math.Rotation2d;
-import com.team6498.lib.util.math.Twist2d;
+import frc.lib.util.math.RigidTransform2d;
+import frc.lib.util.math.Rotation2d;
+import frc.lib.util.math.Twist2d;
 
 /**
  * Provides forward and inverse kinematics equations for the robot modeling the wheelbase as a differential drive (with

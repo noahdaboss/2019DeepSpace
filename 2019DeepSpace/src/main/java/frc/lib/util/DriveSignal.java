@@ -1,4 +1,4 @@
-package com.team6498.lib.util;
+package frc.lib.util;
 
 /**
  * A drivetrain command consisting of the left, right motor settings and whether the brake mode is enabled.

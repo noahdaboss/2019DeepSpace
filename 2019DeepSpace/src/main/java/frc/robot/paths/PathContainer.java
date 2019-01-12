@@ -1,7 +1,7 @@
 package frc.robot.paths;
 
-import com.team6498.lib.util.control.Path;
-import com.team6498.lib.util.math.RigidTransform2d;
+import frc.lib.util.control.Path;
+import frc.lib.util.math.RigidTransform2d;
 
 /**
  * Interface containing all information necessary for a path including the Path itself, the Path's starting pose, and

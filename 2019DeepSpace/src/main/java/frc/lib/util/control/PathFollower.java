@@ -1,12 +1,12 @@
-package com.team6498.lib.util.control;
+package frc.lib.util.control;
 
-import com.team6498.lib.util.math.RigidTransform2d;
-import com.team6498.lib.util.math.Twist2d;
-import com.team6498.lib.util.motion.MotionProfileConstraints;
-import com.team6498.lib.util.motion.MotionProfileGoal;
-import com.team6498.lib.util.motion.MotionProfileGoal.CompletionBehavior;
-import com.team6498.lib.util.motion.MotionState;
-import com.team6498.lib.util.motion.ProfileFollower;
+import frc.lib.util.math.RigidTransform2d;
+import frc.lib.util.math.Twist2d;
+import frc.lib.util.motion.MotionProfileConstraints;
+import frc.lib.util.motion.MotionProfileGoal;
+import frc.lib.util.motion.MotionProfileGoal.CompletionBehavior;
+import frc.lib.util.motion.MotionState;
+import frc.lib.util.motion.ProfileFollower;
 
 /**
  * A PathFollower follows a predefined path using a combination of feedforward and feedback control. It uses an

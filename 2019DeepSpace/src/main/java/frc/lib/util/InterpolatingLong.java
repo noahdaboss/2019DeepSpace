@@ -1,4 +1,4 @@
-package com.team6498.lib.util;
+package frc.lib.util;
 
 /**
  * A Long that can be interpolated using the InterpolatingTreeMap.

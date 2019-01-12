@@ -1,7 +1,7 @@
 package frc.robot;
 
 import edu.wpi.first.wpilibj.AnalogInput;
-import edu.wpi.first.wpilibj.IterativeRobot;
+import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
@@ -10,8 +10,8 @@ import frc.robot.loops.Looper;
 import frc.robot.loops.RobotStateEstimator;
 import frc.robot.paths.profiles.PathAdapter;
 import frc.robot.subsystems.*;
-import com.team6498.lib.util.*;
-import com.team6498.lib.util.math.RigidTransform2d;
+import frc.lib.util.*;
+import frc.lib.util.math.RigidTransform2d;
 
 import java.util.Arrays;
 import java.util.Map;
@@ -31,7 +31,7 @@ import java.util.Map;
  * described in the IterativeRobot documentation. If you change the name of this class or the package after creating
  * this project, you must also update the manifest file in the resource directory.
  */
-public class Robot extends IterativeRobot {
+public class Robot extends TimedRobot {
    int hi;
     // Get subsystem instances
     private Drive mDrive = Drive.getInstance();

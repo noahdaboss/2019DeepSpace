@@ -3,8 +3,8 @@ package frc.robot.loops;
 import frc.robot.Kinematics;
 import frc.robot.RobotState;
 import frc.robot.subsystems.Drive;
-import com.team6498.lib.util.math.Rotation2d;
-import com.team6498.lib.util.math.Twist2d;
+import frc.lib.util.math.Rotation2d;
+import frc.lib.util.math.Twist2d;
 
 /**
  * Periodically estimates the state of the robot using the robot's distance traveled (compares two waypoints), gyroscope

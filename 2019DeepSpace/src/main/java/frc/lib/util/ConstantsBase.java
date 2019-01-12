@@ -1,4 +1,4 @@
-package com.team6498.lib.util;
+package frc.lib.util;
 
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

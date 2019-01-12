@@ -9,16 +9,16 @@ import frc.robot.Kinematics;
 import frc.robot.RobotState;
 import frc.robot.loops.Loop;
 import frc.robot.loops.Looper;
-import com.team6498.lib.util.DriveSignal;
-import com.team6498.lib.util.ReflectingCSVWriter;
-import com.team6498.lib.util.control.Lookahead;
-import com.team6498.lib.util.control.Path;
-import com.team6498.lib.util.control.PathFollower;
-import com.team6498.lib.util.drivers.NavX;
-import com.team6498.lib.util.drivers.NidecBrushlessThree;
-import com.team6498.lib.util.math.RigidTransform2d;
-import com.team6498.lib.util.math.Rotation2d;
-import com.team6498.lib.util.math.Twist2d;
+import frc.lib.util.DriveSignal;
+import frc.lib.util.ReflectingCSVWriter;
+import frc.lib.util.control.Lookahead;
+import frc.lib.util.control.Path;
+import frc.lib.util.control.PathFollower;
+import frc.lib.util.drivers.NavX;
+import frc.lib.util.drivers.NidecBrushlessThree;
+import frc.lib.util.math.RigidTransform2d;
+import frc.lib.util.math.Rotation2d;
+import frc.lib.util.math.Twist2d;
 
 /**
  * This subsystem consists of the robot's drivetrain: 4 HUGE SEXY THREE POINT THREE BRUSHLESS MOTORS MADE BY THE SEXY

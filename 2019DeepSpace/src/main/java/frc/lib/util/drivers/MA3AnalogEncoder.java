@@ -1,10 +1,10 @@
-package com.team6498.lib.util.drivers;
+package frc.lib.util.drivers;
 
 import edu.wpi.first.wpilibj.AnalogInput;
 import edu.wpi.first.wpilibj.Notifier;
 
-import com.team6498.lib.util.CrashTrackingRunnable;
-import com.team6498.lib.util.math.Rotation2d;
+import frc.lib.util.CrashTrackingRunnable;
+import frc.lib.util.math.Rotation2d;
 
 /**
  * A 10-bit analog MA3 absolute encoder. http://cdn.usdigital.com/assets/datasheets/MA3_datasheet.pdf

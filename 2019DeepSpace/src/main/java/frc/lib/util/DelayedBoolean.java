@@ -1,4 +1,4 @@
-package com.team6498.lib.util;
+package frc.lib.util;
 
 /**
  * An iterative boolean latch that delays the transition from false to true.

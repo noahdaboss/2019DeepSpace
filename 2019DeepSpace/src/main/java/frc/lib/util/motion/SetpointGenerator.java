@@ -1,4 +1,4 @@
-package com.team6498.lib.util.motion;
+package frc.lib.util.motion;
 
 import java.util.Optional;
 

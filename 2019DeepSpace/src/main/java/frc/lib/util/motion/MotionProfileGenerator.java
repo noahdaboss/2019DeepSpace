@@ -1,6 +1,6 @@
-package com.team6498.lib.util.motion;
+package frc.lib.util.motion;
 
-import com.team6498.lib.util.motion.MotionProfileGoal.CompletionBehavior;
+import frc.lib.util.motion.MotionProfileGoal.CompletionBehavior;
 
 /**
  * A MotionProfileGenerator generates minimum-time MotionProfiles to travel from a given MotionState to a given

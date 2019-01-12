@@ -3,10 +3,10 @@ package frc.robot.paths;
 import frc.robot.auto.modes.BoilerGearThenShootModeBlue;
 
 import frc.robot.paths.PathBuilder.Waypoint;
-import com.team6498.lib.util.control.Path;
-import com.team6498.lib.util.math.RigidTransform2d;
-import com.team6498.lib.util.math.Rotation2d;
-import com.team6498.lib.util.math.Translation2d;
+import frc.lib.util.control.Path;
+import frc.lib.util.math.RigidTransform2d;
+import frc.lib.util.math.Rotation2d;
+import frc.lib.util.math.Translation2d;
 
 import java.util.ArrayList;
 

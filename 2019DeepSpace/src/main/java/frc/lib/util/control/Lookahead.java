@@ -1,4 +1,4 @@
-package com.team6498.lib.util.control;
+package frc.lib.util.control;
 
 /**
  * A utility class for interpolating lookahead distance based on current speed.

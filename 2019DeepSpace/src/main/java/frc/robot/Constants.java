@@ -2,10 +2,10 @@ package frc.robot;
 
 import edu.wpi.first.wpilibj.Solenoid;
 
-import com.team6498.lib.util.ConstantsBase;
-import com.team6498.lib.util.InterpolatingDouble;
-import com.team6498.lib.util.InterpolatingTreeMap;
-import com.team6498.lib.util.math.PolynomialRegression;
+import frc.lib.util.ConstantsBase;
+import frc.lib.util.InterpolatingDouble;
+import frc.lib.util.InterpolatingTreeMap;
+import frc.lib.util.math.PolynomialRegression;
 
 import java.net.NetworkInterface;
 import java.net.SocketException;

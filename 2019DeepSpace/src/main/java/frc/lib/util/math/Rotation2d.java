@@ -1,8 +1,8 @@
-package com.team6498.lib.util.math;
+package frc.lib.util.math;
 
-import static com.team6498.lib.util.Util.epsilonEquals;
+import static frc.lib.util.Util.epsilonEquals;
 
-import com.team6498.lib.util.Interpolable;
+import frc.lib.util.Interpolable;
 
 import java.text.DecimalFormat;
 
